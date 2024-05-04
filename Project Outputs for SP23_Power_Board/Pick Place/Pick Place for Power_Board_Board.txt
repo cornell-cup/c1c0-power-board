@@ -1,0 +1,122 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\SP23_Power_Board\Project Outputs for SP23_Power_Board\Pick Place\Pick Place for Power_Board_Board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/04/23
+Time:       11:42
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer    Footprint                       Center-X(mil) Center-Y(mil) Rotation Description                                                                         
+Z6         SMBJ5352B-TP       TopLayer DIOM5336X262N                   5342.520      1279.528      180      "Zener Diode"                                                                       
+Z5         SMBJ5352B-TP       TopLayer DIOM5336X262N                   5413.386      2704.724      270      "Zener Diode"                                                                       
+Z4         SMBJ5352B-TP       TopLayer DIOM5336X262N                   5307.087      4488.189      180      "Zener Diode"                                                                       
+Z3         SMBJ5352B-TP       TopLayer DIOM5336X262N                   5346.457      6732.283      180      "Zener Diode"                                                                       
+Z2         SZ1SMB5925BT3G     TopLayer DIOM5436X247N                   2480.315      3456.693      270      "Zener Diode"                                                                       
+Z1         SZ1SMB5925BT3G     TopLayer DIOM5436X247N                   2795.276      7244.095      270      "Zener Diode"                                                                       
+S4         M2011SS1W03        TopLayer M2011SS1W03                     3464.567      1850.394      0        Switch                                                                              
+S3         M2011SS1W03        TopLayer M2011SS1W03                     3464.567      3740.157      0        Switch                                                                              
+S2         M2011SS1W03        TopLayer M2011SS1W03                     3484.252      4881.890      0        Switch                                                                              
+S1         M2011SS1W03        TopLayer M2011SS1W03                     3464.567      7047.244      0        Switch                                                                              
+R15        3k                 TopLayer ERJP08_(1206)                   5334.646      894.685       90       Resistor                                                                            
+R14        147                TopLayer RESC3216X70N                    6043.307      1830.709      0        Resistor                                                                            
+R13        10k                TopLayer ERJP08_(1206)                   4516.732      1259.842      180      Resistor                                                                            
+R12        3k                 TopLayer ERJP08_(1206)                   5728.346      2373.032      90       Resistor                                                                            
+R11        147                TopLayer RESC3216X70N                    6336.614      2814.961      0        Resistor                                                                            
+R10        10k                TopLayer ERJP08_(1206)                   5000.000      3178.150      270      Resistor                                                                            
+R9         3k                 TopLayer ERJP08_(1206)                   5314.961      4065.945      90       Resistor                                                                            
+R8         147                TopLayer RESC3216X70N                    6021.654      5137.795      0        Resistor                                                                            
+R7         10k                TopLayer ERJP08_(1206)                   4556.102      4350.394      180      Resistor                                                                            
+R6         3k                 TopLayer ERJP08_(1206)                   5413.386      6386.811      90       Resistor                                                                            
+R5         147                TopLayer RESC3216X70N                    6084.646      7303.150      0        Resistor                                                                            
+R4         10k                TopLayer ERJP08_(1206)                   4536.417      6574.803      180      Resistor                                                                            
+R3         10K                TopLayer 1206                            2814.961      3055.118      90       "Res Thick Film 1206 18K Ohm 5% 1/3W ±200ppm/°C Molded SMD SMD Punched Carrier T/R" 
+R2         10K                TopLayer 1206                            2519.685      7007.874      90       "Res Thick Film 1206 18K Ohm 5% 1/3W ±200ppm/°C Molded SMD SMD Punched Carrier T/R" 
+R1         1.1k               TopLayer RESC5025X71N                    1909.449      1404.063      270      "SMD 3/4watt 1.1Kohms 1% 100ppm"                                                    
+Q2         FQB47P06TM-AM002   TopLayer FFSB0865BF085                   1968.504      3720.472      90       "MOSFET (P-Channel)"                                                                
+Q1         FQB47P06TM-AM002   TopLayer FFSB0865BF085                   1968.504      7165.354      90       "MOSFET (P-Channel)"                                                                
+LED5       CMD15-21VYC_TR8    TopLayer LEDC3215X130N                   6417.323      1535.433      180      LED                                                                                 
+LED4       CMD15-21VYC_TR8    TopLayer LEDC3215X130N                   6476.378      2539.370      180      LED                                                                                 
+LED3       CMD15-21VYC_TR8    TopLayer LEDC3215X130N                   6358.268      4606.299      180      LED                                                                                 
+LED2       CMD15-21VYC_TR8    TopLayer LEDC3215X130N                   6397.638      6633.858      180      LED                                                                                 
+LED1       CMD15-21VYC_TR8    TopLayer LEDC3215X130N                   1909.449      1003.937      90       LED                                                                                 
+L4         15uH               TopLayer WE-PD_1260/1245/1280/121054     4783.465      2106.299      0        Inductor                                                                            
+L3         15uH               TopLayer WE-PD_1260/1245/1280/121054     5116.142      3622.047      0        Inductor                                                                            
+L2         15uH               TopLayer WE-PD_1260/1245/1280/121054     4805.118      5137.795      0        Inductor                                                                            
+L1         15uH               TopLayer WE-PD_1260/1245/1280/121054     4840.551      7362.205      0        Inductor                                                                            
+J18        PPPC021LFBN-RC     TopLayer RHDR2W80P0X254_1X2_558X254X850P 4201.968      1259.842      180      Connector                                                                           
+J17        PPPC021LFBN-RC     TopLayer RHDR2W80P0X254_1X2_558X254X850P 4262.598      3307.087      180      Connector                                                                           
+J16        PPPC021LFBN-RC     TopLayer RHDR2W80P0X254_1X2_558X254X850P 4241.339      4350.394      180      Connector                                                                           
+J15        PPPC021LFBN-RC     TopLayer RHDR2W80P0X254_1X2_558X254X850P 4241.339      6574.803      180      Connector                                                                           
+J14        282834-8           TopLayer 2828348                         6031.102      354.331       180      Connector                                                                           
+J13        282834-8           TopLayer 2828348                         6732.283      2057.874      90       Connector                                                                           
+J12        282834-8           TopLayer 2828348                         6732.283      7157.874      90       Connector                                                                           
+J11        282834-8           TopLayer 2828348                         6732.283      3020.866      90       Connector                                                                           
+J10        282834-8           TopLayer 2828348                         6732.283      4087.008      90       Connector                                                                           
+J9         282834-8           TopLayer 2828348                         6732.283      6152.362      90       Connector                                                                           
+J8         282834-8           TopLayer 2828348                         1885.433      354.331       180      Connector                                                                           
+J7         282834-8           TopLayer 2828348                         6732.283      1009.842      270      Connector                                                                           
+J6         282834-8           TopLayer 2828348                         6732.283      5110.630      90       Connector                                                                           
+J5         "Switch 2"         TopLayer 42820-2XXY_1                    1062.992      3385.827      270      Connector                                                                           
+J4         "Bat 2"            TopLayer 42820-2XXY_1                    1062.992      4606.299      270      Connector                                                                           
+J3         "Switch 1"         TopLayer 42820-2XXY_1                    1062.992      5798.031      270      Connector                                                                           
+J2         "Bat 1"            TopLayer 42820-2XXY_1                    1062.992      7007.874      270      Connector                                                                           
+J1         282834-8           TopLayer 2828348                         858.661       354.331       180      Connector                                                                           
+IC4        TPS5450DDAR        TopLayer SOIC127P600X170-9N              4389.764      1594.488      0        "Integrated Circuit"                                                                
+IC3        TPS5450DDAR        TopLayer SOIC127P600X170-9N              4625.984      3366.142      0        "Integrated Circuit"                                                                
+IC2        TPS5450DDAR        TopLayer SOIC127P600X170-9N              4389.764      4704.724      0        "Integrated Circuit"                                                                
+IC1        TPS5450DDAR        TopLayer SOIC127P600X170-9N              4409.449      6929.134      0        "Integrated Circuit"                                                                
+F4         MFU0805FF05000P100 TopLayer FUSC2012X55N                    5294.095      2086.614      0        Fuse                                                                                
+F3         MFU0805FF05000P100 TopLayer FUSC2012X55N                    5492.126      3818.898      0        Fuse                                                                                
+F2         MFU0805FF05000P100 TopLayer FUSC2012X55N                    5274.409      5334.646      0        Fuse                                                                                
+F1         MFU0805FF05000P100 TopLayer FUSC2012X55N                    5314.961      7559.055      0        Fuse                                                                                
+D13        S6055NRP           TopLayer S6055NRP                        5767.717      1245.374      0        SCR                                                                                 
+D12        c                  TopLayer PMEG045T100EPEZ                 4234.252      2263.780      270      "Schottky Diode"                                                                    
+D11        SZ1.5SMC36AT3G     TopLayer DIOM7958X256N                   6181.102      842.520       90       Diode                                                                               
+D10        S6055NRP           TopLayer S6055NRP                        5925.197      2930.807      0        SCR                                                                                 
+D9         c                  TopLayer PMEG045T100EPEZ                 4332.677      3976.378      270      "Schottky Diode"                                                                    
+D8         SZ1.5SMC36AT3G     TopLayer DIOM7958X256N                   6200.787      2228.347      90       Diode                                                                               
+D7         S6055NRP           TopLayer S6055NRP                        5759.252      4407.579      0        SCR                                                                                 
+D6         c                  TopLayer PMEG045T100EPEZ                 4234.252      5295.276      270      "Schottky Diode"                                                                    
+D5         SZ1.5SMC36AT3G     TopLayer DIOM7958X256N                   6283.465      4212.598      180      Diode                                                                               
+D4         S6055NRP           TopLayer S6055NRP                        5807.087      6651.279      0        SCR                                                                                 
+D3         c                  TopLayer PMEG045T100EPEZ                 4214.567      7480.315      270      "Schottky Diode"                                                                    
+D2         SZ1.5SMC36AT3G     TopLayer DIOM7958X256N                   6295.276      6279.528      180      Diode                                                                               
+D1         SZ1.5SMC36AT3G     TopLayer DIOM7958X256N                   2307.087      5255.905      0        Diode                                                                               
+C34        0.1uF              TopLayer CAPC3216X190N                   5196.850      898.032       90       Capacitor                                                                           
+C33        4.7uF              TopLayer CAPC3216X180N                   4079.528      1614.173      0        Capacitor                                                                           
+C32        4.7uF              TopLayer CAPC3216X180N                   4079.528      1791.339      0        Capacitor                                                                           
+C31        10000pF            TopLayer CAPC2012X95N                    4081.890      2027.559      0        Capacitor                                                                           
+C30        .011uF             TopLayer CAPC3216X95N                    5078.740      1648.425      270      Capacitor                                                                           
+C29        0.1uF              TopLayer CAPC3216X190N                   5366.535      1712.598      180      Capacitor                                                                           
+C28        330uF              TopLayer T521X                           4862.205      1559.842      270      "Capacitor Polarised"                                                               
+C27        10000pF            TopLayer CAPC2012X95N                    4396.850      1948.819      0        Capacitor                                                                           
+C26        0.1uF              TopLayer CAPC3216X190N                   5590.551      2389.370      90       Capacitor                                                                           
+C25        4.7uF              TopLayer CAPC3216X180N                   4079.528      3543.307      0        Capacitor                                                                           
+C24        4.7uF              TopLayer CAPC3216X180N                   4079.528      3700.787      0        Capacitor                                                                           
+C23        10000pF            TopLayer CAPC2012X95N                    4074.803      3937.008      0        Capacitor                                                                           
+C22        .011uF             TopLayer CAPC3216X95N                    5413.386      3183.858      270      Capacitor                                                                           
+C21        0.1uF              TopLayer CAPC3216X190N                   5460.236      2992.126      180      Capacitor                                                                           
+C20        330uF              TopLayer T521X                           5196.850      3085.827      270      "Capacitor Polarised"                                                               
+C19        10000pF            TopLayer CAPC2012X95N                    4429.134      3693.701      90       Capacitor                                                                           
+C18        0.1uF              TopLayer CAPC3216X190N                   5177.165      4082.284      90       Capacitor                                                                           
+C17        4.7uF              TopLayer CAPC3216X180N                   4079.528      4645.669      0        Capacitor                                                                           
+C16        4.7uF              TopLayer CAPC3216X180N                   4079.528      4842.520      0        Capacitor                                                                           
+C15        10000pF            TopLayer CAPC2012X95N                    4081.890      5039.370      0        Capacitor                                                                           
+C14        .011uF             TopLayer CAPC3216X95N                    5059.055      4699.606      270      Capacitor                                                                           
+C13        0.1uF              TopLayer CAPC3216X190N                   5346.850      4783.465      180      Capacitor                                                                           
+C12        330uF              TopLayer T521X                           4822.835      4611.024      270      "Capacitor Polarised"                                                               
+C11        10000pF            TopLayer CAPC2012X95N                    4396.850      4960.630      0        Capacitor                                                                           
+C10        0.1uF              TopLayer CAPC3216X190N                   5275.591      6405.118      90       Capacitor                                                                           
+C9         4.7uF              TopLayer CAPC3216X180N                   4055.118      6811.024      0        Capacitor                                                                           
+C8         4.7uF              TopLayer CAPC3216X180N                   4055.118      7007.874      0        Capacitor                                                                           
+C7         10000pF            TopLayer CAPC2012X95N                    4055.118      7204.724      0        Capacitor                                                                           
+C6         .011uF             TopLayer CAPC3216X95N                    5039.370      6914.567      270      Capacitor                                                                           
+C5         0.1uF              TopLayer CAPC3216X190N                   5401.181      7204.724      180      Capacitor                                                                           
+C4         330uF              TopLayer T521X                           4842.520      6815.748      270      "Capacitor Polarised"                                                               
+C3         10000pF            TopLayer CAPC2012X95N                    4402.362      7165.354      0        Capacitor                                                                           
+C2         4700uF             TopLayer CAPPRD1000W80D2200H4100         2283.465      4429.134      180      Capacitor                                                                           
+C1         4700uF             TopLayer CAPPRD1000W80D2200H4100         2283.465      6102.362      180      Capacitor                                                                           

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetLED1_2 Pin=R1-1
+Removed Pin From Net: NetName=+24 V Pin=R1-2
+Change Component Footprint: Designator=R1 Old Footprint=ERJP08_(1206) New Footprint=RESC5025X71N
+Change Component Kind : Designator=R1 Old Kind=Net Tie (In BOM) New Kind=Standard
+Change component parameters: Designator = "R1" ("R1"); Footprint = "ERJP08_(1206)"; UniqueID = "\LIZZJEBX" ("\LIZZJEBX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW20101K10FKEF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+24 V Pin=R1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-2

@@ -1,0 +1,24 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:24:27 PM On 4/22/2023
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Power_Board_Board.PcbDoc]
+   Generated File[Power_Board_Board.GTO]
+   Generated File[Power_Board_Board.GTP]
+   Generated File[Power_Board_Board.GTS]
+   Generated File[Power_Board_Board.GTL]
+   Generated File[Power_Board_Board.GBL]
+   Generated File[Power_Board_Board.GBS]
+   Generated File[Power_Board_Board.GBP]
+   Generated File[Power_Board_Board.GBO]
+   Generated File[Power_Board_Board.GM]
+   Generated File[Power_Board_Board.EXTREP]
+   Generated File[Power_Board_Board.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 1:24:28 PM On 4/22/2023
